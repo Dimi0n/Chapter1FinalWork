@@ -1,0 +1,15 @@
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\bin\Debug\net7.0\C1FW.exe
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\bin\Debug\net7.0\C1FW.deps.json
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\bin\Debug\net7.0\C1FW.runtimeconfig.json
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\bin\Debug\net7.0\C1FW.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\bin\Debug\net7.0\C1FW.pdb
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\C1FW.csproj.AssemblyReference.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\C1FW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\C1FW.AssemblyInfoInputs.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\C1FW.AssemblyInfo.cs
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\C1FW.csproj.CoreCompileInputs.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\C1FW.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\refint\C1FW.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\C1FW.pdb
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\C1FW.genruntimeconfig.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\ДомашниеЗадания\Chapter1FinalWork\C1FW\obj\Debug\net7.0\ref\C1FW.dll

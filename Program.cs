@@ -13,3 +13,5 @@ for (int i = 0; i < array.Length; i++)
         filteredIndex++; 
     }
 }
+// Вывод отфильтрованного массива
+System.Console.Write("Массив по заданию: "+"[" + string.Join(" ", filteredArray) + "]");
